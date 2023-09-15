@@ -16,6 +16,7 @@
     .footer{
         color: midnightblue;
         text-align: right;
+        display: inline-flex;
     }
    .card {
     width: 45%;
